@@ -2,16 +2,19 @@
   "posts": [
     {
       "id": 1,
+      "pass":"1",
       "title": "hello",
       "name": "anand"
     },
     {
       "id": 2,
+      "pass":"2",
       "title": "hello",
       "name": "jose"
     },
     {
       "id": 3,
+      "pass":"3",
       "title": "hello",
       "name": "abhi"
     }
