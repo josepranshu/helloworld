@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
       "pass":"11",
@@ -17,6 +17,66 @@
       "pass":"33",
       "title": "hello",
       "name": "abhi"
+    }
+      
+  ],
+
+"posts": [
+    {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+    {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj1",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+ {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj2",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+    {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj3",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+ {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj4",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+    {
+      "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj5",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
+    },
+    {
+     "profilePic":"https://pbs.twimg.com/profile_images/798351849984294912/okhePpJW.jpg" ,
+      "name":"Anand Raj6",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijnCjlpixxnEcvYeKm-1pg6s2ohuD2VMcMoIzTZInCSZ57SJN",
+      "caption":"My Caption",
+      "date":"11/1/2020",
+      "likes": "200"
     }
       
   ],
